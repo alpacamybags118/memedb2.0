@@ -1,0 +1,23 @@
+{
+  "name": "memedb2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "account.js",
+  "dependencies": {
+    "bcrypt": "^3.0.3",
+    "fsync": "0.0.0",
+    "rmdir": "^1.2.0",
+    "scandir": "^0.1.2",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.17",
+    "serverless-offline": "^3.32.2",
+    "serverless-plugin-typescript": "^1.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
